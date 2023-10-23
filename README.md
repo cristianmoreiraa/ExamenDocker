@@ -23,3 +23,6 @@ El cacho de código anterior lo he sacado de esta buena [**página**](https://de
 
 ## Empezamos la cofiguración de PrestaShop
 
+Por el momento estamos con este error intentando ver como lo solucionamos
+
+![img2](./imagenes/img2.png)
