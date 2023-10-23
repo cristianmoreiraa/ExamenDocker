@@ -26,3 +26,5 @@ El cacho de código anterior lo he sacado de esta buena [**página**](https://de
 Por el momento estamos con este error intentando ver como lo solucionamos
 
 ![img2](./imagenes/img2.png)
+
+# Bueno ahora esto ha decidido que no me conecta ni con el instalador de PrestaShop
